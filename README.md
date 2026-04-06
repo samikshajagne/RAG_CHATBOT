@@ -1,5 +1,8 @@
 # 🏦 Banking Chatbot — AI-Powered Q&A System
 
+<img width="950" height="902" alt="image" src="https://github.com/user-attachments/assets/1e373e80-c8d7-4bd0-a067-47f2bf015fa5" />
+
+
 > An intelligent banking chatbot built using **Sentence Transformers** for semantic retrieval and a **Large Language Model (LLM)** for natural answer generation.
 
 ---
@@ -11,7 +14,7 @@ This project implements a simple **RAG (Retrieval-Augmented Generation)** pipeli
 2. Finds the most **relevant context** for any user query using cosine similarity
 3. Passes the context to an **LLM** to generate a fluent, accurate answer
 
----
+--
 
 ## 🧰 Tech Stack
 
