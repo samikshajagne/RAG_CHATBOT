@@ -1,0 +1,10 @@
+# Core dependencies
+sentence-transformers>=2.7.0   # Embeddings (runs locally, no API key needed)
+numpy>=1.26.0                  # Numerical operations
+
+# LLM backend (choose one or both)
+groq>=0.9.0                    # Groq API — free tier available (recommended)
+openai>=1.30.0                 # OpenAI API (alternative)
+
+# Web UI
+streamlit>=1.35.0              # Chat interface — run with: streamlit run app.py
