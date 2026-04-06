@@ -1,4 +1,4 @@
-# 🏦 Banking Chatbot — AI-Powered Q&A System
+# 🏦 Banking Chatbot 
 
 <img width="950" height="902" alt="image" src="https://github.com/user-attachments/assets/1e373e80-c8d7-4bd0-a067-47f2bf015fa5" />
 
