@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "What is KYC?",
+    "answer": "KYC stands for Know Your Customer. It is a mandatory process used by banks and financial institutions to verify the identity of their clients. KYC helps prevent fraud, money laundering, and other financial crimes. It typically involves collecting government-issued ID, proof of address, and a recent photograph."
+  },
+  {
+    "id": 2,
+    "question": "What is a savings account?",
+    "answer": "A savings account is a basic bank account that allows you to deposit money, keep it safe, and earn interest over time. It is ideal for storing emergency funds and short-term savings. Banks typically offer an interest rate of 2.5%–7% per annum on savings accounts. You can withdraw money anytime, but some banks limit the number of monthly withdrawals."
+  },
+  {
+    "id": 3,
+    "question": "What documents are required to open a bank account?",
+    "answer": "To open a bank account in India, you typically need: (1) Proof of Identity – Aadhaar card, PAN card, Passport, Voter ID, or Driving License. (2) Proof of Address – Utility bill, bank statement, or Aadhaar card. (3) Recent passport-size photographs. (4) PAN card or Form 60 (if PAN is not available). (5) A filled application form provided by the bank."
+  },
+  {
+    "id": 4,
+    "question": "What is a fixed deposit?",
+    "answer": "A Fixed Deposit (FD) is a financial instrument offered by banks where you deposit a lump sum amount for a fixed tenure at a predetermined interest rate. FDs offer higher interest rates than savings accounts (typically 6%–8% p.a.) and are considered low-risk investments. The amount cannot be withdrawn before maturity without a penalty."
+  },
+  {
+    "id": 5,
+    "question": "What is NEFT and how does it work?",
+    "answer": "NEFT (National Electronic Funds Transfer) is an electronic payment system that allows individuals and businesses to transfer funds between bank accounts across India. NEFT operates in hourly batches and is available 24x7 throughout the year. You need the recipient's name, account number, bank name, and IFSC code to initiate a transfer. There is no minimum amount limit for NEFT transactions."
+  },
+  {
+    "id": 6,
+    "question": "What is a credit score and why is it important?",
+    "answer": "A credit score is a 3-digit numerical score (typically between 300–900) that represents your creditworthiness. It is calculated based on your credit history, repayment behaviour, outstanding debt, and credit utilization. A score above 750 is considered excellent. A good credit score helps you get loans at lower interest rates, higher credit limits, and faster loan approvals."
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between a debit card and a credit card?",
+    "answer": "A debit card is linked directly to your bank account and deducts money immediately when you make a purchase. A credit card allows you to borrow money from the bank up to a set credit limit and pay it back later (usually within 30–45 days interest-free). Debit cards help you spend within your means, while credit cards offer rewards, cashback, and better fraud protection but require disciplined repayment."
+  },
+  {
+    "id": 8,
+    "question": "What is UPI and how do I use it?",
+    "answer": "UPI (Unified Payments Interface) is a real-time payment system developed by the National Payments Corporation of India (NPCI) that enables instant money transfers between bank accounts using a smartphone. To use UPI, download a UPI-enabled app (like Google Pay, PhonePe, or BHIM), link your bank account, create a UPI PIN, and you can send/receive money using a UPI ID or QR code 24x7, 365 days a year."
+  },
+  {
+    "id": 9,
+    "question": "What is a home loan and what are the eligibility criteria?",
+    "answer": "A home loan is a secured loan provided by banks or financial institutions to help individuals purchase or construct a home. The bank holds the property as collateral until the loan is fully repaid. Eligibility criteria typically include: age between 21–65 years, minimum monthly income (varies by bank), stable employment history, good credit score (750+), and the property must be legally approved. Loan tenure can range from 5 to 30 years."
+  },
+  {
+    "id": 10,
+    "question": "How can I protect myself from banking fraud?",
+    "answer": "To protect yourself from banking fraud: (1) Never share your OTP, PIN, or password with anyone including bank officials. (2) Use strong, unique passwords for net banking. (3) Enable SMS and email alerts for all transactions. (4) Avoid using public Wi-Fi for banking. (5) Regularly monitor your account statements. (6) Be wary of phishing emails and fake websites. (7) Immediately report lost cards or suspicious activity to your bank."
+  }
+]
