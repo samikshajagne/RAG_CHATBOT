@@ -29,11 +29,7 @@ This project implements a simple **RAG (Retrieval-Augmented Generation)** pipeli
 
 ```
 banking-chatbot/
-├── data/
-│   └── banking_qa.json      # 10 banking Q&A entries
-├── embeddings.py            # Dataset loading & embedding generation
-├── retrieval.py             # Cosine similarity-based retrieval
-├── llm.py                   # LLM response generation (Groq / OpenAI)
+├── banking_qa.json      # 10 banking Q&A entries
 ├── chatbot.py               # Core chatbot logic (RAG pipeline)
 ├── app.py                   # Streamlit Web UI  ← ✨ NEW
 ├── main.py                  # CLI entry point
