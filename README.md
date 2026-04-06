@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project implements a simple **RAG (Retrieval-Augmented Generation)** pipeline that:
 1. Converts banking Q&A data into **semantic embeddings**
@@ -16,7 +16,7 @@ This project implements a simple **RAG (Retrieval-Augmented Generation)** pipeli
 
 --
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Component        | Technology                          |
 |-----------------|-------------------------------------|
@@ -28,13 +28,13 @@ This project implements a simple **RAG (Retrieval-Augmented Generation)** pipeli
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 banking-chatbot/
 ├── banking_qa.json      # 10 banking Q&A entries
 ├── chatbot.py               # Core chatbot logic (RAG pipeline)
-├── app.py                   # Streamlit Web UI  ← ✨ NEW
+├── app.py                   # Streamlit Web UI  ←  NEW
 ├── main.py                  # CLI entry point
 ├── requirements.txt
 └── README.md
@@ -42,7 +42,7 @@ banking-chatbot/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### 1. Clone & Install
 
@@ -87,17 +87,17 @@ python main.py
 
 ---
 
-## 💬 Sample Interaction
+## Sample Interaction
 
 ```
-👤 You: What is KYC?
-🤖 Bot: KYC stands for Know Your Customer. It is a mandatory process used
+ You: What is KYC?
+Bot: KYC stands for Know Your Customer. It is a mandatory process used
         by banks to verify the identity of clients, helping prevent fraud
         and money laundering. It typically requires a government-issued ID,
         proof of address, and a recent photograph.
 
-👤 You: How does UPI work?
-🤖 Bot: UPI (Unified Payments Interface) enables instant bank-to-bank
+ You: How does UPI work?
+ Bot: UPI (Unified Payments Interface) enables instant bank-to-bank
         transfers via smartphone. You link your bank account to a UPI app
         (like Google Pay or PhonePe), set a UPI PIN, and can then send or
         receive money 24x7 using a UPI ID or QR code.
@@ -105,7 +105,7 @@ python main.py
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 ```
 User Query
@@ -128,7 +128,7 @@ Final Answer displayed in CLI
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset (`data/banking_qa.json`) contains **10 banking Q&A entries** covering:
 - KYC, Savings Account, FD, Home Loans
@@ -138,6 +138,3 @@ The dataset (`data/banking_qa.json`) contains **10 banking Q&A entries** coverin
 
 ---
 
-## 📝 License
-
-MIT License — free to use and modify.
