@@ -8,10 +8,14 @@ from sentence_transformers import SentenceTransformer
 MODEL_NAME = "all-MiniLM-L6-v2"
 
 
-def load_data(filepath="data/banking_qa.json"):
+def load_data(filename="banking_qa.json"):
+    # ensure we find the file regardless of where the app is run from
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    filepath = os.path.join(base_path, filename)
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
     return data
+
 
 
 def get_embeddings(questions, model):
